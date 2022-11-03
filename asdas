@@ -1,0 +1,101 @@
+[33mcommit 2fd175610fffef4dfdf34bac68ae6ba6abaed520[m[33m ([m[1;36mHEAD -> [m[1;32mclean-code-s1e1[m[33m, [m[1;31morigin/clean-code-s1e1[m[33m)[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Sun Oct 30 21:53:29 2022 +0300
+
+    refactor: add Indent in style.css according to rule 3.5 in html-and-css.md
+
+[33mcommit 1b26b19cd75d2a39dff95a465e77a33cc2925afe[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Sun Oct 30 21:49:53 2022 +0300
+
+    refactor: adjust class names according to rule 3.1,3.2,3.3,3.4, in html-and-css.md and rule 2.1 in html-and-css-extended.md
+
+[33mcommit fbd4078bd7c4fc911cf04ceb6fcc78b8b97b549a[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 20:08:05 2022 +0300
+
+    fix: add line break for selectors/properties in style.css according to rule 3.8 in html-and-css.md
+
+[33mcommit 5ece8e866814a90ed3b6cd2cb098ebfec6c2b04c[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 19:58:16 2022 +0300
+
+    fix: add semicolon in style.css according to rule 3.7 in html-and-css.md
+
+[33mcommit 6cfb26c9643b5d42e5544db133d31e9de425a28d[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 19:57:10 2022 +0300
+
+    fix: add space after property name in style.css according to rule 3.6 in html-and-css.md
+
+[33mcommit 5cd287d2957a57f30afa50fba830477d60891800[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 19:55:17 2022 +0300
+
+    fix: add Indent in style.css according to rule 3.5 in html-and-css.md
+
+[33mcommit 8029f156170bd27a7ff3bba59a03709e7fa31dd4[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 19:47:20 2022 +0300
+
+    refactor: add type for image according to rule 1.2 in html-and-css-extended.md
+
+[33mcommit aac0ff1ef97f91e3eab15a5912560f90be520941[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 19:45:22 2022 +0300
+
+    refactor: add semantic tag according to rule 1.1 in html-and-css-extended.md
+
+[33mcommit 5db8044f2db398273decd17c9322ef2d7e25d9c2[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 18:47:46 2022 +0300
+
+    refactor: adjust long stroke according to rule 2.5 in html-and-css.md
+
+[33mcommit 2753c91881421dff7929cf5b150aa998d5f4415b[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 18:44:10 2022 +0300
+
+    fix: delete type attribute in css/js file according to rule 2.4 in html-and-css.md
+
+[33mcommit ef1279f290d4ebd0048b9015d0ca44cedb5bc104[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 18:40:17 2022 +0300
+
+    fix: replace mnemonic according to rule 2.3 in html-and-css.md
+
+[33mcommit ed4cf5c308d685706289ffebae751a9d95bd1719[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 18:34:53 2022 +0300
+
+    fix: add Html5 DOCTYPE tag according to rule 2.2 in html-and-css.md
+
+[33mcommit af9fd0a98ad9d18ed64079b3a920c0288f2f2338[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 18:33:20 2022 +0300
+
+    refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md
+
+[33mcommit 8d4157335886a207b21564b35a5219813b444b9c[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 18:24:52 2022 +0300
+
+    refactor: replace quotes  according to rule 1.3 in html-and-css.md
+
+[33mcommit 84768e772dc79e1abbde09fcd26c9cb987e86f78[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 18:23:19 2022 +0300
+
+    refactor: delete upperacase according to rule 1.2 in html-and-css.md
+
+[33mcommit 46b404f0d8bcb5f023e861430904aedfd30c8d6d[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 18:21:29 2022 +0300
+
+    refactor: adjust Indent according to rule 1.1 in html-and-css.md
+
+[33mcommit a70927fdcb73c7723fb1decdb7ead616fa09e0fe[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Artem Gromiko <dropdox12@gmail.com>
+Date:   Fri Oct 28 18:05:45 2022 +0300
+
+    initial
